@@ -1,6 +1,3 @@
-
-simple node.js app to make payment via paypal
-
 # Project Title
 
 simple node.js app to make payment via paypal
